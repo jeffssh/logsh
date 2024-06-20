@@ -8,3 +8,4 @@ Edit `script.sh` and run make to generate:
 
 To decrypt logsh output, run ./decrypt ./logsh-log.txt
 
+To simply test your script end to end, run `make end-to-end`
